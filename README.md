@@ -1,0 +1,2 @@
+# setlinux
+set ubuntu automatically
