@@ -5,6 +5,9 @@ timedatectl set-local-rtc 1 --adjust-system-clock
 # install vscode
 sudo snap install --classic code
 
+# install clion
+sudo snap install clion --classic
+
 # install qv2ray
 sudo snap install qv2ray
 
