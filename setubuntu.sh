@@ -16,6 +16,11 @@ sudo snap install clion --classic
 # sudo snap install [pycharm-professional|pycharm-community] --classic
 sudo snap install pycharm-professional --classic
 
+# install intellij-idea
+sudo snap install intellij-idea-community --classic
+sudo snap install intellij-idea-ultimate --classic
+sudo snap install intellij-idea-educational --classic
+
 # install qv2ray
 sudo snap install qv2ray
 
