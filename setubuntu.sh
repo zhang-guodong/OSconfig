@@ -12,6 +12,10 @@ sudo snap install --classic code
 # install clion
 sudo snap install clion --classic
 
+# install pycharm
+# sudo snap install [pycharm-professional|pycharm-community] --classic
+sudo snap install pycharm-professional --classic
+
 # install qv2ray
 sudo snap install qv2ray
 
