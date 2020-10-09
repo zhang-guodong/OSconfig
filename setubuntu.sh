@@ -4,7 +4,7 @@ timedatectl set-local-rtc 1 --adjust-system-clock
 
 # link python to python3
 sudo rm /usr/bin/python
-sudo ln -s /usr/bin/python3 /user/bin/python
+sudo ln -s /usr/bin/python3 /usr/bin/python
 
 # install vscode
 sudo snap install --classic code
