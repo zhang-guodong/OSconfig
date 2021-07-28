@@ -8,6 +8,8 @@
 
     + [Office Tool Plus](https://otp.landian.vip/zh-cn/download.html) Remark: Must install ×86 .net at first.
 
+    + [Lenovo System Update](https://support.lenovo.com/us/en/downloads/ds012808-lenovo-system-update-for-windows-10-7-32-bit-64-bit-desktop-notebook-workstation)
+
 + **Develop Software**
 
     + [Visual Studio Code](https://code.visualstudio.com/Download)
@@ -20,4 +22,6 @@
 
     + [Toolbox App](https://www.jetbrains.com/toolbox-app/)
 
-    
++ **Social Media**
+
+    + [WeChat](https://pc.weixin.qq.com/)
