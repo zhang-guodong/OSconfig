@@ -26,6 +26,8 @@
 
     + [WeChat](https://pc.weixin.qq.com/)
 
+    + [TIM](https://tim.qq.com/download.html)
+
 + **Microsoft Store**
 
     + [Microsoft To Do: Lists, Tasks & Reminders](https://www.microsoft.com/store/productId/9NBLGGH5R558)
