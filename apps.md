@@ -22,6 +22,8 @@
 
     + [Toolbox App](https://www.jetbrains.com/toolbox-app/)
 
+    + [Anaconda](https://www.anaconda.com/products/individual#Downloads)
+
 + **Social Media**
 
     + [WeChat](https://pc.weixin.qq.com/)
