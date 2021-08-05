@@ -6,9 +6,11 @@
 
     + [7-Zip](https://www.7-zip.org/)
 
+    + [Lenovo System Update](https://support.lenovo.com/us/en/downloads/ds012808-lenovo-system-update-for-windows-10-7-32-bit-64-bit-desktop-notebook-workstation)
+
     + [Office Tool Plus](https://otp.landian.vip/zh-cn/download.html) Remark: Must install ×86 .net at first.
 
-    + [Lenovo System Update](https://support.lenovo.com/us/en/downloads/ds012808-lenovo-system-update-for-windows-10-7-32-bit-64-bit-desktop-notebook-workstation)
+    + [有道词典](https://cidian.youdao.com/multi.html)
 
 + **Develop Software**
 
