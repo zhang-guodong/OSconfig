@@ -8,9 +8,13 @@
 
     + [Lenovo System Update](https://support.lenovo.com/us/en/downloads/ds012808-lenovo-system-update-for-windows-10-7-32-bit-64-bit-desktop-notebook-workstation)
 
++ **Office Software**
+
     + [Office Tool Plus](https://otp.landian.vip/zh-cn/download.html) Remark: Must install ×86 .net at first.
 
     + [有道词典](https://cidian.youdao.com/multi.html)
+    
+    + [Adobe Acrobat Reader DC](https://get.adobe.com/cn/reader/)
 
 + **Develop Software**
 
