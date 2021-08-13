@@ -45,3 +45,7 @@
     + [Ubuntu (WSL)](https://www.microsoft.com/store/productId/9NBLGGH4MSV6)
 
     + [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)
+
++ **Other Software**
+
+    + [迅雷](https://dl.xunlei.com/)
