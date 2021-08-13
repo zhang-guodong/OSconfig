@@ -8,6 +8,8 @@
 
     + [Lenovo System Update](https://support.lenovo.com/us/en/downloads/ds012808-lenovo-system-update-for-windows-10-7-32-bit-64-bit-desktop-notebook-workstation)
 
+    + [GeForce Experience](https://www.nvidia.cn/geforce/drivers/)
+
 + **Office Software**
 
     + [Office Tool Plus](https://otp.landian.vip/zh-cn/download.html) Remark: Must install ×86 .net at first.
@@ -41,3 +43,5 @@
     + [Microsoft To Do: Lists, Tasks & Reminders](https://www.microsoft.com/store/productId/9NBLGGH5R558)
 
     + [Ubuntu (WSL)](https://www.microsoft.com/store/productId/9NBLGGH4MSV6)
+
+    + [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)
